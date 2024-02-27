@@ -1,7 +1,7 @@
 {
   colorschemes = {
     rose-pine = {
-      enable = true;
+      enable = false;
       style = "main"; #  "main", "moon", "dawn" or raw lua code
       disableItalics = false;
       transparentFloat = true;
