@@ -1,7 +1,7 @@
 {
   colorschemes = {
     base16 = {
-      enable = ture;
+      enable = true;
       colorscheme = "gruvbox";
     };
   };
