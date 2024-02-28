@@ -3,7 +3,7 @@
     enable = true;
     notifyOnError = true;
     formattersByFt = {
-      html = [["prettierd" "prettier"]];
+      #html = [["prettierd" "prettier"]];
       css = [["prettierd" "prettier"]];
       javascript = [["prettierd" "prettier"]];
       javascriptreact = [["prettierd" "prettier"]];
