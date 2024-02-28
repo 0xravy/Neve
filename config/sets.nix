@@ -62,6 +62,7 @@
 
       # Enable cursor line highlight
       cursorline = true; # Highlight the line where the cursor is located
+      cursorcolumn = true;
 
       # Set fold settings
       # These options were reccommended by nvim-ufo
