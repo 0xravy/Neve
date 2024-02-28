@@ -14,7 +14,7 @@
       tabstop = 4;
       softtabstop = 4;
       showtabline = 4;
-      expandtab = true;
+      expandtab = false; # i dont need that
 
       # Enable auto indenting and set it to spaces
       smartindent = true;
